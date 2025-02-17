@@ -18,5 +18,7 @@ namespace Business.Entities
         public List<Entrenamiento> Entrenamientos { get; set; } = new();
         public List<Alimentacion> Alimentaciones { get; set; } = new();
         public List<Comportamiento> Comportamientos { get; set; } = new();
+
+       
     }
 }
