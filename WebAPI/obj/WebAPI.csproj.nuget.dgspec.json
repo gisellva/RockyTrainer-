@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\user\\RockyTrainer\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Business.Interfaces\\Business.Interfaces.csproj": {
+    "C:\\Users\\user\\RockyTrainer\\Business.Interfaces\\Business.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Business.Interfaces\\Business.Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\user\\RockyTrainer\\Business.Interfaces\\Business.Interfaces.csproj",
         "projectName": "Business.Interfaces",
-        "projectPath": "C:\\Users\\user\\Business.Interfaces\\Business.Interfaces.csproj",
+        "projectPath": "C:\\Users\\user\\RockyTrainer\\Business.Interfaces\\Business.Interfaces.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Business.Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\user\\RockyTrainer\\Business.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Business\\Business.csproj": {
+    "C:\\Users\\user\\RockyTrainer\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\user\\RockyTrainer\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\user\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\user\\RockyTrainer\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Business\\obj\\",
+        "outputPath": "C:\\Users\\user\\RockyTrainer\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\user\\RockyTrainer\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\user\\RockyTrainer\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\user\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\user\\RockyTrainer\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\user\\RockyTrainer\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -162,11 +162,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\user\\Business.Interfaces\\Business.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\user\\Business.Interfaces\\Business.Interfaces.csproj"
+              "C:\\Users\\user\\RockyTrainer\\Business.Interfaces\\Business.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\user\\RockyTrainer\\Business.Interfaces\\Business.Interfaces.csproj"
               },
-              "C:\\Users\\user\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\user\\Business\\Business.csproj"
+              "C:\\Users\\user\\RockyTrainer\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\user\\RockyTrainer\\Business\\Business.csproj"
               }
             }
           }
@@ -206,14 +206,14 @@
         }
       }
     },
-    "C:\\Users\\user\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\user\\RockyTrainer\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\user\\RockyTrainer\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\user\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\user\\RockyTrainer\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\user\\RockyTrainer\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -234,11 +234,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\user\\Business.Interfaces\\Business.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\user\\Business.Interfaces\\Business.Interfaces.csproj"
+              "C:\\Users\\user\\RockyTrainer\\Business.Interfaces\\Business.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\user\\RockyTrainer\\Business.Interfaces\\Business.Interfaces.csproj"
               },
-              "C:\\Users\\user\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\user\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\user\\RockyTrainer\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\user\\RockyTrainer\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }

@@ -1,0 +1,9 @@
+﻿# Ignorar archivos de compilación y temporales
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.tmp
