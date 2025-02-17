@@ -31,7 +31,11 @@
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\user\\RockyTrainer\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\user\\RockyTrainer\\Business\\Business.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -236,6 +240,9 @@
             "projectReferences": {
               "C:\\Users\\user\\RockyTrainer\\Business.Interfaces\\Business.Interfaces.csproj": {
                 "projectPath": "C:\\Users\\user\\RockyTrainer\\Business.Interfaces\\Business.Interfaces.csproj"
+              },
+              "C:\\Users\\user\\RockyTrainer\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\user\\RockyTrainer\\Business\\Business.csproj"
               },
               "C:\\Users\\user\\RockyTrainer\\Infrastructure\\Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\user\\RockyTrainer\\Infrastructure\\Infrastructure.csproj"

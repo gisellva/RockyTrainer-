@@ -47,6 +47,9 @@
       "Business.Interfaces/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Business": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Business.Interfaces.dll": {}
         },
@@ -120,6 +123,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "Business >= 1.0.0",
       "Business.Interfaces >= 1.0.0",
       "Infrastructure >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 9.0.1"
@@ -159,6 +163,9 @@
           "projectReferences": {
             "C:\\Users\\user\\RockyTrainer\\Business.Interfaces\\Business.Interfaces.csproj": {
               "projectPath": "C:\\Users\\user\\RockyTrainer\\Business.Interfaces\\Business.Interfaces.csproj"
+            },
+            "C:\\Users\\user\\RockyTrainer\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\user\\RockyTrainer\\Business\\Business.csproj"
             },
             "C:\\Users\\user\\RockyTrainer\\Infrastructure\\Infrastructure.csproj": {
               "projectPath": "C:\\Users\\user\\RockyTrainer\\Infrastructure\\Infrastructure.csproj"
